@@ -60,8 +60,13 @@ Bot: Gracias por visitarnos, te esperamos pronto en el restaurante
 Integrantes del equipo
 
 Báez López Dulce Merari
+
 López Abad Karla Monserrat
+
 Martínez Delgado Víctor Alberto
+
 Medina Santillán Juan Carlos
+
 Palacios Orocio Alma Rosa
+
 Ruguerio Rosas Marco Antonio
