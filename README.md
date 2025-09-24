@@ -8,7 +8,7 @@ Nota: Actualmente el chatbot funciona en consola / navegador local debido a que 
 
 Instrucciones de ejecución
 
-1. Descargar el archivo paginaweb.html desde el repositorio
+1. Descargar el archivo Proyecto desde el repositorio
 2. Abrirlo en un editor de código como Visual Studio Code
 3. Ejecutarlo en el navegador (ejemplo: haciendo doble clic o usando la extensión Live Server)
 4. Escribir mensajes en el chat para interactuar con el bot
